@@ -10,3 +10,6 @@ dependencies:
   - panel
   - hvplot
   - ipywidgets
+  - pip:
+    - flit
+    - importnb

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "panel_ipywidgets"
+author = "quansight"
+author-email = "info@quansight.com"
+home-page = "http://github.com/Quansight/panel_ipywidgets"
+classifiers = ["License :: OSI Approved :: MIT License"]
+requires = ["holoviews", "importnb", "panel", "ipywidgets", "hvplot", "pandas"]
+
