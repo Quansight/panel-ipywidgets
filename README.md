@@ -1,6 +1,6 @@
 # `panel` and `ipywidgets`
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tonyfast/oss-notebooks/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Quansight/panel-ipywidgets/HEAD)
 
         import panel_ipywidgets
 
